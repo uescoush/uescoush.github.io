@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uescoush.github.io/sitemap.html.gz
+Sitemap: https://uescoush.github.io/app/sitemap.html.gz
+Sitemap: https://uescoush.github.io/assets/sitemap.html.gz
+Sitemap: https://uescoush.github.io/css/sitemap.html.gz
+Sitemap: https://uescoush.github.io/includes/sitemap.html.gz
+Sitemap: https://uescoush.github.io/item/sitemap.html.gz
+Sitemap: https://uescoush.github.io/src/sitemap.html.gz
